@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is NOlan Skochdopole. I'm a fiend for abstract filmmaking even though I've never seen holy mountain.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+The lighthouse was surprisingly mediocre.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Don't contact me. Don't you even dare. Don't you try it.
