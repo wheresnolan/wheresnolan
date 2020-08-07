@@ -1,6 +1,6 @@
 ---
 layout: post
-title: August: Women in Translation Month!
+title: Women in Translation Month!
 ---
 
 For the past [six years](https://www.cupblog.org/2020/08/01/women-in-translation-month-2020-a-celebration-of-philosophy-and-literature/), August has been dedicated to women in translation. There are many great blogs dedicated to this cause this month as well as quite a few virtual events planned by publishers. To plug just one such series, [Fitzcarralo Editions and Charco Press](https://twitter.com/FitzcarraldoEds/status/1290348144253968384) are putting together a weekly lunch sereis of talks with the first one beginning tomorrow (08/07/2020) and focusing on translating violence.
