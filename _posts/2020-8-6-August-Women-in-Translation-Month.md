@@ -11,28 +11,28 @@ I always have a ton of books on my stack(s) of "to-read soon" (so many so that I
 
 Although it's an ambitious stack to tackle this month, I want to give it a go; and if anyone wants to try any of these books with me, please just reach out and we can read together! I plan to periodically come back and update this post with my thoughts on each work as well as possibly post other interesting events or articles focusing on Women in Translation.
 
-<img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/all_my_goodbyes.jpg" height="350"> [*All My Goodbyes*](https://www.transitbooks.org/books/allmygoodbyes), Mariana Dimopulos (Argentina, tr. Alice Whitmore, Transit Books)
+<img src="{{ base.url }}/images/all_my_goodbyes.jpg" height="350"> [*All My Goodbyes*](https://www.transitbooks.org/books/allmygoodbyes), Mariana Dimopulos (Argentina, tr. Alice Whitmore, Transit Books)
 
-<img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/die-my-love.png" height="350"> [*Die, My Love*](https://charcopress.com/bookstore/die-my-love), Ariana Harwicz (Argentina, tr. Sarah Moses and Carolina Orloff, Charco Press)
+<img src="{{ base.url }}/images/die-my-love.png" height="350"> [*Die, My Love*](https://charcopress.com/bookstore/die-my-love), Ariana Harwicz (Argentina, tr. Sarah Moses and Carolina Orloff, Charco Press)
 
-<img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/slum-virgin.png" height="350"> [*Slum Virgin*](https://charcopress.com/bookstore/slum-virgin), Gabriela Cabezón Cámara (Argentina, tr. Frances Riddle, Charco Press)
+<img src="{{ base.url }}/images/slum-virgin.png" height="350"> [*Slum Virgin*](https://charcopress.com/bookstore/slum-virgin), Gabriela Cabezón Cámara (Argentina, tr. Frances Riddle, Charco Press)
 
-<img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/seeing-red.jpg" height="350"> [*Seeing Red*](http://deepvellum.org/product/seeing-red/), Lina Meruane (Chile, tr. Megan McDowell, Deep Vellum Books)
+<img src="{{ base.url }}/images/seeing-red.jpg" height="350"> [*Seeing Red*](http://deepvellum.org/product/seeing-red/), Lina Meruane (Chile, tr. Megan McDowell, Deep Vellum Books)
 
-<img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/bloodofdawn.jpg" height="350"> [*Blood of the Dawn*](https://deepvellum.org/product/blood-of-the-dawn/), Claudia Salazar Jiménez (Peru, tr. Elizabeth Bryer, Deep Vellum Books)
+<img src="{{ base.url }}/images/bloodofdawn.jpg" height="350"> [*Blood of the Dawn*](https://deepvellum.org/product/blood-of-the-dawn/), Claudia Salazar Jiménez (Peru, tr. Elizabeth Bryer, Deep Vellum Books)
 
-<img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/belladonna.jpg" height="350"> [*Belladonna*](https://www.ndbooks.com/book/belladonna/#/), Daša Drndić (Croatia, tr. Celia Hawkesworth, New Directions)
+<img src="{{ base.url }}/images/belladonna.jpg" height="350"> [*Belladonna*](https://www.ndbooks.com/book/belladonna/#/), Daša Drndić (Croatia, tr. Celia Hawkesworth, New Directions)
 
-<img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/malina.jpg" height="350"> [*Malina*](https://www.ndbooks.com/book/malina/#/), Ingeborg Bachmann (Germany, tr. Philip Boehm, New Directions)
+<img src="{{ base.url }}/images/malina.jpg" height="350"> [*Malina*](https://www.ndbooks.com/book/malina/#/), Ingeborg Bachmann (Germany, tr. Philip Boehm, New Directions)
 
-<img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/Hurricane.jpg" height="350"> [*Hurricane Season*](https://www.ndbooks.com/book/hurricane-season-1/#/), Fernanda Melchor (Mexico, tr. Sophie Hughes, New Directions)
+<img src="{{ base.url }}/images/Hurricane.jpg" height="350"> [*Hurricane Season*](https://www.ndbooks.com/book/hurricane-season-1/#/), Fernanda Melchor (Mexico, tr. Sophie Hughes, New Directions)
 
-<img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/Bluebeard.jpg" height="350"> [*Bluebeard's First Wife*](https://www.openletterbooks.org/collections/new-forthcoming/products/bluebeards-first-wife), Ha Seong-nan (Korea, tr. Janet Hong, Open Letter Books)
+<img src="{{ base.url }}/images/Bluebeard.jpg" height="350"> [*Bluebeard's First Wife*](https://www.openletterbooks.org/collections/new-forthcoming/products/bluebeards-first-wife), Ha Seong-nan (Korea, tr. Janet Hong, Open Letter Books)
 
-<img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/Cars_on_fire.jpg" height="350"> [*Cars on Fire*](https://www.openletterbooks.org/collections/new-forthcoming/products/cars-on-fire), Mónica Ramón Ríos (Chile, tr. Robin Myers, Open Letter Books)
+<img src="{{ base.url }}/images/Cars_on_fire.jpg" height="350"> [*Cars on Fire*](https://www.openletterbooks.org/collections/new-forthcoming/products/cars-on-fire), Mónica Ramón Ríos (Chile, tr. Robin Myers, Open Letter Books)
 
-<img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/Four_by_Four.jpg" height="350"> [*Four by Four*](https://www.openletterbooks.org/collections/new-forthcoming/products/four-by-four), Sara Mesa (Spain, tr. Katie Whittemore, Open Letter Books)
+<img src="{{ base.url }}/images/Four_by_Four.jpg" height="350"> [*Four by Four*](https://www.openletterbooks.org/collections/new-forthcoming/products/four-by-four), Sara Mesa (Spain, tr. Katie Whittemore, Open Letter Books)
 
-<img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/body_where.jpeg" height="350"> [*The Body Where I Was Born*](https://www.penguinrandomhouse.com/books/232053/the-body-where-i-was-born-by-guadalupe-nettel/), Guadalupe Nettle (Mexico, tr. J.T. Lichtenstein, Penguin Random House)
+<img src="{{ base.url }}/images/body_where.jpeg" height="350"> [*The Body Where I Was Born*](https://www.penguinrandomhouse.com/books/232053/the-body-where-i-was-born-by-guadalupe-nettel/), Guadalupe Nettle (Mexico, tr. J.T. Lichtenstein, Penguin Random House)
 
-<img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/things_we_lost.jpeg" height="350"> [*Things We Lost in the Fire*](https://www.penguinrandomhouse.com/books/538696/things-we-lost-in-the-fire-by-mariana-enriquez/), Mariana Enriquez (Argentina, *English language debut*, Penguin Random House)
+<img src="{{ base.url }}/images/things_we_lost.jpeg" height="350"> [*Things We Lost in the Fire*](https://www.penguinrandomhouse.com/books/538696/things-we-lost-in-the-fire-by-mariana-enriquez/), Mariana Enriquez (Argentina, *English language debut*, Penguin Random House)
