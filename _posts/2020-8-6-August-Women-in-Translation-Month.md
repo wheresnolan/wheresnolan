@@ -11,7 +11,7 @@ I always have a ton of books on my stack(s) of "to-read soon" (so many so that I
 
 Although it's an ambitious stack to tackle this month, I want to give it a go; and if anyone wants to try any of these books with me, please just reach out and we can read together! I plan to periodically come back and update this post with my thoughts on each work as well as possibly post other interesting events or articles focusing on Women in Translation.
 
-<img src="https://github.com/wheresnolan/wheresnolan.github.io/images/all_my_goodbyes.jpg" height="350"> [*All My Goodbyes*](https://www.transitbooks.org/books/allmygoodbyes), Mariana Dimopulos (Argentina, tr. Alice Whitmore, Transit Books)
+<img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/all_my_goodbyes.jpg" height="350"> [*All My Goodbyes*](https://www.transitbooks.org/books/allmygoodbyes), Mariana Dimopulos (Argentina, tr. Alice Whitmore, Transit Books)
 
 <img src="https://github.com/wheresnolan/wheresnolan.github.io/blob/master/images/die-my-love.png" height="350"> [*Die, My Love*](https://charcopress.com/bookstore/die-my-love), Ariana Harwicz (Argentina, tr. Sarah Moses and Carolina Orloff, Charco Press)
 
